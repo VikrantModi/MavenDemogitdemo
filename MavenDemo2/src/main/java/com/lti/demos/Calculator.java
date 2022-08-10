@@ -18,11 +18,11 @@ public class Calculator {
 		return result; 
 	}
 	public void searchEmp(int empId) {
-		if(empId==0) { 
+		if(empId==0) {
 			throw new ArithmeticException("U entered zero");
 		}
 		else {
-			System.out.println("do something"); 
+			System.out.println("do something");
 		}
 	}
 	

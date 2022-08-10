@@ -9,6 +9,7 @@ public class TestCal {
 		
 		int sum=c.addNos(100, 500);
 		System.out.println(sum);
+
 	}
 
 }
